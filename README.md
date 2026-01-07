@@ -35,7 +35,6 @@ Analyze files extracted from a private Sigma cluster account to uncover stolen c
 - Construction of an initial event timeline
 - Hypothesis formulation and investigative recommendations
 
-:contentReference[oaicite:0]{index=0}
 
 ---
 
