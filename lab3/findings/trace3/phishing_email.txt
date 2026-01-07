@@ -1,0 +1,30 @@
+Sender:
+
+    Name: Ricardo Prado
+    Email Address: ricardo_prado1986@hotmail.com
+
+To Recipients:
+
+    Name: rafaelcalhau123@hotmail.com
+    Email Address: rafaelcalhau123@hotmail.com
+
+**Subject:** Urgent: Immediate Security Update Required for Your Computer Drivers
+
+Dear Rafael,
+
+I hope this message finds you well. As part of a routine security upgrade across IST’s systems, we’ve identified the need for all users to update their computer drivers to ensure they are safe from the most recent detected threats. This is part of an ongoing effort by DSI to enhance system security at the Taguspark campus.
+
+The update package is attached to this email.
+
+This update is urgent as a new virus has come to our attention, and so we ask that you complete it within the next 24 hours to avoid any security breaches.
+
+If you have any questions, please feel free to contact the DSI support team.
+
+Thank you for your cooperation.
+
+Best regards,  
+Ricardo Prado  
+Head of IT Department (DSI)  
+IST Taguspark Campus  
+ 
+
